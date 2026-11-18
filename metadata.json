@@ -1,0 +1,8 @@
+{
+  "name": "Remix HIFA - Luxury Women\u0027s Fashion \u0026 Dresses Qatar",
+  "description": "Discover HIFA\u0027s exquisite collection of luxury women\u0027s dresses, evening gowns, kaftans, and couture fashion based in Madina Khalifa South, Qatar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
